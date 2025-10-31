@@ -1,0 +1,11 @@
+h1{
+	color: #ebe1ed;
+}
+body{
+	background-color: #9b79a4;
+}
+ul{
+	list-style-type: none;
+	background-color: #7d2d8d;
+	overflow: hidden;
+}
