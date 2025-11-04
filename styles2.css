@@ -9,3 +9,24 @@ ul{
 	background-color: #7d2d8d;
 	overflow: hidden;
 }
+ul li{
+	float: left;
+	text-align: center;
+}
+p{
+	color: #e9e4eb;
+}
+h1{
+	color: #e9e4eb;
+}
+ul li a{
+	text-decoration: none;
+	display: block;
+	width: 150px;
+	padding: 15px 15px;
+	color:#e9e4eb ;
+}
+ul li a:hover{
+	background-color:#867686 ;
+	color:#8b5689 ;
+}
