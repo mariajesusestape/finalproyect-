@@ -30,3 +30,14 @@ ul li a:hover{
 	background-color:#867686 ;
 	color:#8b5689 ;
 }
+.active{
+	font-weight: bold;
+	border-bottom: solid 2px #ebe5ed;
+}
+.pandoraActive{
+	font-weight: bold;
+	border-bottom: solid 2px #ebe5ed;
+}
+p{
+	font-size: 35pt;
+}
